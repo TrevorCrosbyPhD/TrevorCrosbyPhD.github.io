@@ -7,7 +7,7 @@
     "phone": "904-525-0058",
     "location": "Seattle, WA"
   },
-  "summary": "AI/ML specialist with experience building production-scale machine learning systems to create solutions to complex challenges.",
+  "summary": "AI/ML leader with experience building production-grade machine learning systems to create solutions to complex challenges at scale.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -50,9 +50,9 @@
       "end_date": "02/2024",
       "summary": "",
       "highlights": [
-        "Adapted geospatial and biological data in creating classifier and regressor to predict population dynamics and financial impact of a major corn pest at sub-field-level resolution, mitigating its $2B impact.",
+        "Adapted geospatial and biological data in creating classifier and regressor to predict population dynamics and crop impact of a major agricultural pest at sub-field-level resolution, mitigating its $2B impact.",
         "Automated data extraction and cleaning, feature engineering, model assessment and validation, and script testing for ML products, significantly reducing product update cycles and operational overhead.",
-        "Created a modular codebase for using cosine distance to cull seed product recommendations based on customer profiles, product features, and regional factors, reducing product choices by 90%."
+        "Co-developed modular codebase for using cosine distance to cull product recommendations based on customer profiles, product features, and regional factors, reducing product choices by 90%."
       ]
     },
     {
