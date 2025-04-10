@@ -208,16 +208,11 @@
           {% if skills %}
             <section>
               <h2 class="section-heading">Skills</h2>
-              <ul class="skills-list" style="list-style-type: none; padding-left: 0;">
+              <div class="skills-list no-bullets">
                 {% for skill in skills %}
-                  <li>
-                    {{ skill.name }}
-                    {% if skill.proficiency_label %}
-                      <span class="skill-level">{{ skill.proficiency_label }}</span>
-                    {% endif %}
-                  </li>
+                  {{ skill.name }}{% if not loop.last %}, {% endif %}
                 {% endfor %}
-              </ul>
+              </div>
             </section>
           {% endif %}
 
@@ -265,7 +260,7 @@
 
     <footer class="page-footer">
       <div class="container">
-        <p>© {{ current_year }} {{ name }}. All rights reserved.</p>
+        <p>© {{ current_year }} {{ name }} All rights reserved.</p>
       </div>
     </footer>
 
