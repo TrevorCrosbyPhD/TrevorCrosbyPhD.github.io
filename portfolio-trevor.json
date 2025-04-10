@@ -7,7 +7,7 @@
     "phone": "904-525-0058",
     "location": "Seattle, WA"
   },
-  "summary": "AI/ML leader with experience building production-grade machine learning systems to create solutions to complex challenges at scale.",
+  "summary": "AI/ML leader with experience building production-grade machine learning systems to solve complex challenges at scale.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -35,7 +35,7 @@
       "end_date": "Present",
       "summary": "",
       "highlights": [
-        "Developed product that delivers sub-second similarity searches of industry entities by leveraging vector databases to facilitate retrieval of embeddings using high-dimensional distance calculations.",
+        "Developed product that delivers low-latency similarity searches of industry entities by leveraging vector databases to facilitate retrieval of embeddings using high-dimensional distance calculations.",
         "Applied transformer deep learning models and convolutional neural networks to embed unstructured multimodal data (ie. satellite imagery, written observations, machine sensor readings) at scale.",
         "Engineered agentic workflow to consolidate many products' access points into single, LLM-driven entryway.",
         "Designed tool to use customer similarity to personalize product value proposals.",
@@ -50,9 +50,9 @@
       "end_date": "02/2024",
       "summary": "",
       "highlights": [
-        "Adapted geospatial and biological data in creating classifier and regressor to predict population dynamics and crop impact of a major agricultural pest at sub-field-level resolution, mitigating its $2B impact.",
+        "Adapted geospatial and biological data in creating classifier and regressor to predict population dynamics and crop impact of a major agricultural pest at sub-field-level resolution, mitigating its multi-billion dollar impact.",
         "Automated data extraction and cleaning, feature engineering, model assessment and validation, and script testing for ML products, significantly reducing product update cycles and operational overhead.",
-        "Co-developed modular codebase for using cosine distance to cull product recommendations based on customer profiles, product features, and regional factors, reducing product choices by 90%."
+        "Co-developed modular codebase for using distance metrics to cull product recommendations based on customer profiles, product features, and regional factors, reducing product choices by 90%."
       ]
     },
     {
