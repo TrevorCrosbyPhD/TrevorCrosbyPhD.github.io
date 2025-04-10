@@ -1,0 +1,134 @@
+{
+  "name": "Trevor Crosby, Ph.D.",
+  "label": "Data & Machine Learning Scientist",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "TrevorWCrosby@gmail.com",
+    "phone": "904-525-0058",
+    "location": "Seattle, WA"
+  },
+  "summary": "AI/ML specialist with experience building production-scale machine learning systems to create solutions to complex challenges.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "TrevorCrosbyPhD.github.io",
+      "url": "https://TrevorCrosbyPhD.github.io",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/trevorcrosby/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=hAMWvGkAAAAJ&hl=en",
+      "svg_path": "img/google_scholar_logo.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "John Deere",
+      "position": "Data Scientist",
+      "url": "https://www.deere.com/en/",
+      "start_date": "02/2024",
+      "end_date": "Present",
+      "summary": "",
+      "highlights": [
+        "Developed product that delivers sub-second similarity searches of industry entities by leveraging vector databases to facilitate retrieval of embeddings using high-dimensional distance calculations.",
+        "Applied transformer deep learning models and convolutional neural networks to embed unstructured multimodal data (ie. satellite imagery, written observations, machine sensor readings) at scale.",
+        "Engineered agentic workflow to consolidate many products' access points into single, LLM-driven entryway.",
+        "Designed tool to use customer similarity to personalize product value proposals.",
+        "Communicated and visualized project goals and progress with technical and non-technical stakeholders, mentored part-time student, and performed as technical lead in a diverse, geographically distributed group."
+      ]
+    },
+    {
+      "company": "Corteva Agriscience",
+      "position": "Data Scientist",
+      "url": "https://www.corteva.com/",
+      "start_date": "04/2023",
+      "end_date": "02/2024",
+      "summary": "",
+      "highlights": [
+        "Adapted geospatial and biological data in creating classifier and regressor to predict population dynamics and financial impact of a major corn pest at sub-field-level resolution, mitigating its $2B impact.",
+        "Automated data extraction and cleaning, feature engineering, model assessment and validation, and script testing for ML products, significantly reducing product update cycles and operational overhead.",
+        "Created a modular codebase for using cosine distance to cull seed product recommendations based on customer profiles, product features, and regional factors, reducing product choices by 90%."
+      ]
+    },
+    {
+      "company": "University of Wisconsin-Madison, Department of Horticulture",
+      "position": "Graduate Research Assistant",
+      "url": "https://hort.extension.wisc.edu/",
+      "start_date": "05/2018",
+      "end_date": "05/2023",
+      "summary": "",
+      "highlights": [
+        "Designed research to assess hyperspectral and multispectral remote sensing and dimensionality reduction in developing ML tools to enhance spatial and temporal precision in crop management decision-making.",
+        "Led cross-functional team in creating partial least-squares regression-focused algorithms that predict mid- and post-season crop yield, quality, and fertility to improve agronomic efficiency.",
+        "Applied ML models to inform product application using multispectral drone images and environmental data."
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Seattle Data Professionals",
+      "position": "Organizer",
+      "url": "",
+      "start_date": "",
+      "end_date": "",
+      "summary": "Coordinated and led biweekly data professionals meetup, growing community membership and fostering meaningful connections.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Seattle SDE Skills",
+      "position": "Guest Speaker",
+      "url": "https://www.sdeskills.com/chapters/seattle",
+      "start_date": "",
+      "end_date": "",
+      "summary": "Led whiteboarding lectures on ML, data science, and software engineering topics. Some lecture highlights are:",
+      "highlights": [
+        "Deep Dive into Gradient Descent",
+        "Introduction to SQL",
+        "Graph Algorithms"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Winsconsin-Madison",
+      "location": "Madison, WI",
+      "url": "https://www.wisc.edu/",
+      "degrees": [
+        "Doctor of Philosophy in Horticulture"
+      ],
+      "graduation_date": "05/2023"
+    },
+    {
+      "institution": "University of Winsconsin-Madison",
+      "location": "Madison, WI",
+      "url": "https://www.wisc.edu/",
+      "degrees": [
+        "Master of Science in Horticulture"
+      ],
+      "graduation_date": "05/2020"
+    },
+    {
+      "institution": "University of Florida",
+      "location": "Gainesville, FL",
+      "url": "https://www.ufl.edu/",
+      "degrees": [
+        "Master of Science in Horticulture"
+      ],
+
+      "graduation_date": "05/2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, SQL, Git, PyTorch, scikit-learn, Spark, Databricks, GenAI, LLMs, CVML, Vector Databases, CI/CD, Agile ",
+      "proficiency": "",
+      "proficiency_label": ""
+    }
+  ]
+}
