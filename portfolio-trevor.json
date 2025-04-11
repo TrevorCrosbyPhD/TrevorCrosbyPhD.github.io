@@ -35,7 +35,7 @@
       "end_date": "Present",
       "summary": "",
       "highlights": [
-        "In my current role at John Deere, I develop AI/ML tools that make use of complex, multimodal data like images, sensor readings, and text. I focus on building large-scale systems and products that use this data to support smarter decisions and more efficient operations. My work also includes simplifying workflows with AI tools and guiding projects from early design into deployment while mentoring teammates and providing technical leadership."
+        "In my current role at John Deere, I develop AI/ML tools that leverage complex, multimodal data to support smarter decisions and more efficient operations. I focus on building large-scale systems and products, simplifying workflows with AI tools, and guiding projects from early ideation through deployment, while also mentoring teammates and offering technical leadership."
       ]
     },
     {
@@ -46,7 +46,7 @@
       "end_date": "02/2024",
       "summary": "",
       "highlights": [
-        "At Corteva, I applied machine learning to help inform agricultural decisions using a variety of geospatial, environmental, and biological data. I worked on models for prediction and recommendation, and contributed to tools that supported more personalized, data-driven choices. My focus included full-lifecycle development and cross-team collaboration."
+        "At Corteva, I applied machine learning in products that inform agricultural decisions using a variety of geospatial, environmental, and biological data. I worked on models for outcome prediction and product recommendation, and contributed to tools that supported more personalized, data-driven choices. My work here emphasized full-lifecycle development and cross-team collaboration."
       ]
     },
     {
@@ -124,9 +124,15 @@
     "summary": "Patent Pending"
   }
 ],
+
+  "publications": {
+    "label": "Google Scholar",
+    "url": "https://scholar.google.com/citations?user=hAMWvGkAAAAJ&hl=en"
+  },
+
   "skills": [
     {
-      "name": "Python, SQL, Git, PyTorch, scikit-learn, Spark, Databricks, GenAI, LLMs, CVML, Vector Databases, CI/CD, Agile ",
+      "name": "Python, SQL, Git, Spark, Databricks, PyTorch, scikit-learn, CVML, GenAI, LLMs and Agentic Workflows, Vector Databases, CI/CD, Agile ",
       "proficiency": "",
       "proficiency_label": ""
     }
