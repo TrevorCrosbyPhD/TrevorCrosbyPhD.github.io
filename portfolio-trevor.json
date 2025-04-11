@@ -74,11 +74,11 @@
     },
     {
       "organization": "Seattle SDE Skills",
-      "position": "Guest Lecturer",
+      "position": "Lecturer",
       "url": "https://www.sdeskills.com/chapters/seattle",
       "start_date": "",
       "end_date": "",
-      "summary": "As a guest lecturer for Seattle SDE Skills, I deliver interactive whiteboarding sessions on core topics in machine learning, data science, and software engineering. Some of my previous talks include a deep dive into gradient descent, an introduction to SQL fundamentals, and an applied walkthrough of graph algorithms.",
+      "summary": "As a lecturer for Seattle SDE Skills, I deliver interactive whiteboarding sessions on core topics in machine learning, data science, and software engineering. Some of my previous talks include a deep dive into gradient descent, an introduction to SQL fundamentals, and an applied walkthrough of graph algorithms.",
       "highlights": [
       ]
     }
