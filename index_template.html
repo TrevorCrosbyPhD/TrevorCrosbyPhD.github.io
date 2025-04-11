@@ -238,9 +238,30 @@
             </section>
           {% endif %}
 
+          {% if patents %}
+            <section style="margin-top: 2rem;">
+              <h2 class="section-heading">Patents</h2>
+              <ul class="unstyled-list">
+                {% for patent in patents %}
+                  <li style="margin-bottom: 1rem;">
+                    <h3>
+                      {% if patent.url %}
+                        <a href="{{ patent.url }}" target="_blank">{{ patent.title }}</a>
+                      {% else %}
+                        {{ patent.title }}
+                      {% endif %}
+                    </h3>
+                    {% if patent.number %}<p class="section-label">Patent No: {{ patent.number }}</p>{% endif %}
+                    {% if patent.date %}<p class="section-label">Issued: {{ patent.date }}</p>{% endif %}
+                    {% if patent.summary %}<p class="section-label">{{ patent.summary }}</p>{% endif %}
+                  </li>
+                {% endfor %}
+              </ul>
+            </section>
+          {% endif %}
+
           <!-- You could also add blank space elements here -->
           <div style="height: 2rem;"></div>  <!-- This creates extra space -->
-
           {% if skills %}
             <section>
               <h2 class="section-heading">Skills</h2>
@@ -249,20 +270,6 @@
                   {{ skill.name }}{% if not loop.last %}, {% endif %}
                 {% endfor %}
               </div>
-            </section>
-          {% endif %}
-
-          {% if languages %}
-            <section>
-              <h2 class="section-heading">Languages</h2>
-              <ul class="unstyled-list">
-                {% for lang in languages %}
-                  <li>
-                    <h3>{{ lang.language }}</h3>
-                    <p class="section-label">{{ lang.fluency }}</p>
-                  </li>
-                {% endfor %}
-              </ul>
             </section>
           {% endif %}
 

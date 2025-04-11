@@ -57,7 +57,7 @@
       "end_date": "05/2023",
       "summary": "",
       "highlights": [
-        "During my Ph.D., I led research at the intersection of remote sensing, machine learning, and crop science. I worked with hyperspectral and multispectral imagery to design predictive models that helped local farmers rapidly respond to spatio-temporally variable factors impacting their crop's yield, quality, and fertility throughout the growing season.My academic work laid the foundation for my applied ML skills and strengthened my ability to lead, teach, and communicate across disciplines."
+        "During my Ph.D., I led research at the intersection of remote sensing, machine learning, and crop science. I worked with hyperspectral and multispectral imagery to design predictive models that helped local farmers rapidly respond to spatio-temporally variable factors impacting their crop's yield, quality, and fertility throughout the growing season. My academic work laid the foundation for my applied ML skills and strengthened my ability to lead, teach, and communicate across disciplines."
       ]
     }
   ],
@@ -114,6 +114,16 @@
       "graduation_date": "05/2018"
     }
   ],
+
+  "patents": [
+  {
+    "title": "Agronomic Data Management Platform",
+    "number": "19/067109",
+    "date": "Filed Feb 28, 2025",
+    "url": "",
+    "summary": "Patent Pending"
+  }
+],
   "skills": [
     {
       "name": "Python, SQL, Git, PyTorch, scikit-learn, Spark, Databricks, GenAI, LLMs, CVML, Vector Databases, CI/CD, Agile ",
