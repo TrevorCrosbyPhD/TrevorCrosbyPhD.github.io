@@ -35,7 +35,7 @@
       "end_date": "Present",
       "summary": "",
       "highlights": [
-        "In my current role at John Deere, I develop advanced data processing and machine learning tools that help connect and compare complex multimodal data like images, sensor readings, and text. My focus is on low-latency comparison systems, creating novel embedding piplines for high-complexity data, and streamlining workflows with AI-powered tools. I lead many technical efforts, develop products from ideation to deployment, and mentor newer team members."
+        "In my current role at John Deere, I develop AI/ML tools that make use of complex, multimodal data like images, sensor readings, and text. I focus on building large-scale systems and products that use this data to support smarter decisions and more efficient operations. My work also includes simplifying workflows with AI tools and guiding projects from early design through to deployment while mentoring teammates and providing technical leadership."
       ]
     },
     {
@@ -46,7 +46,7 @@
       "end_date": "02/2024",
       "summary": "",
       "highlights": [
-        "At Corteva, I created AI/ML tools to support customer decision-making, using geospatial, environmental, and biological data to predict outcomes like crop pest dynamics and yield quality. I also helped develop a personalized recommendation system to guide product choices based on product features, regional factors, and customer profiles. I focused on full-pipeline development—from raw data through deployed product—while collaborating across teams to ensure scalability and usability."
+        "At Corteva, I applied machine learning to help inform agricultural decisions using a variety of geospatial, environmental, and biological data. I worked on models for prediction and recommendation, and contributed to tools that supported more personalized, data-driven choices. My focus included full-lifecycle development and cross-team collaboration."
       ]
     },
     {
@@ -57,7 +57,7 @@
       "end_date": "05/2023",
       "summary": "",
       "highlights": [
-        "During my Ph.D., I led research at the intersection of remote sensing, machine learning, and crop science. I worked with hyperspectral and multispectral imagery to design predictive models that helped local farmers rapidly respond to spatio-temporally variable factors impacting their crop's yield, quality, and fertility throughout the growing season. My academic work laid the foundation for my applied ML skills and strengthened my ability to lead, teach, and communicate across disciplines."
+        "During my Ph.D., I led research at the intersection of remote sensing, machine learning, and agriculture. I worked with aerial imagery to create models that helped farmers rapidly respond to spatio-temporally variable factors impacting their crop's yield, quality, and fertility. My academic work laid the foundation for my applied ML skills and strengthened my ability to lead, teach, and communicate across disciplines."
       ]
     }
   ],
